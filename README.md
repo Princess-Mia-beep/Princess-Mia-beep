@@ -10,6 +10,7 @@ Pronouns: She/Her
 Please reach out to me through github or official channels (if you are my colleagues/students)
 
 I am primarily working with `Shell, Python, Audrino, C, C++, typescript and MATLAB.`
+
 Familiar with `MacOS, Windows 10+, Debian/Arch Linux`
 
 Uses github for scientific purposes.
